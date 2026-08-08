@@ -4,6 +4,7 @@ My solutions to Codeforces problems.
 
 ## Milestone
 - I solved my first 100 problems 🎉.
+- Now I'll write my notes only in Ukrainian 🇺🇦
 
 ## Structure
 - 'solutions/' — C++ code for each problem
