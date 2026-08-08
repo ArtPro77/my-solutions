@@ -1,6 +1,6 @@
-# Codeforces Problem Solutions
+# Codeforces/Others Problem Solutions
 
-My solutions to Codeforces problems.
+My solutions to Codeforces and others problems.
 
 ## Milestone
 - I solved my first 100 problems 🎉.
@@ -11,7 +11,7 @@ My solutions to Codeforces problems.
 - 'notes/'     — explanations and analysis
 
 ##  Progress
-- Solved: **exactly 100** problems
+- Solved: **100+** problems
 
 ## Author
 [ArtPro77](https://github.com/ArtPro77)
